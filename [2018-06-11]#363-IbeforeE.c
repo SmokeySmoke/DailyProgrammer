@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #define SLEN 25
-bool isIE_rule(char * string);
+bool isIE_rule(char * word);
 
 int main(void)
 {
